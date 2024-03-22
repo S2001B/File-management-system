@@ -1,6 +1,5 @@
 # File-management-system
 A little file management system for the Libre Office package
-# File Management System for LibreOffice
 
 ## Overview
 
